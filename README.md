@@ -1,0 +1,4 @@
+FurryCoin
+=========
+
+FurryCoin
