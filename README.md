@@ -1,4 +1,4 @@
 FurryCoin
 =========
 
-FurryCoin
+FurryCoin - Coming soon!
